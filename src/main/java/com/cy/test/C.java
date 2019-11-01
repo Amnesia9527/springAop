@@ -6,6 +6,7 @@ public class C {
 
         A ab = new B();
         System.out.println("hello");
+        System.out.println("nihao");
 
     }
 }
